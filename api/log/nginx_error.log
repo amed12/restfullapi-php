@@ -1,0 +1,5 @@
+2019/07/11 22:26:26 [error] 11670#11670: *1 directory index of "/var/www/restfullapi-php/api/" is forbidden, client: 127.0.0.1, server: restfull.localhost, request: "GET / HTTP/1.1", host: "restfull.localhost"
+2019/07/11 22:26:29 [error] 11670#11670: *1 directory index of "/var/www/restfullapi-php/api/" is forbidden, client: 127.0.0.1, server: restfull.localhost, request: "GET / HTTP/1.1", host: "restfull.localhost"
+2019/07/11 22:28:28 [error] 11670#11670: *4 directory index of "/var/www/restfullapi-php/api/" is forbidden, client: 127.0.0.1, server: restfull.localhost, request: "GET / HTTP/1.1", host: "restfull.localhost"
+2019/07/11 22:30:32 [error] 11670#11670: *6 directory index of "/var/www/restfullapi-php/api/" is forbidden, client: 127.0.0.1, server: restfull.localhost, request: "GET / HTTP/1.1", host: "restfull.localhost"
+2019/07/11 22:34:28 [error] 11670#11670: *21 directory index of "/var/www/restfullapi-php/api/" is forbidden, client: 127.0.0.1, server: restfull.localhost, request: "GET / HTTP/1.1", host: "restfull.localhost"
